@@ -1,0 +1,27 @@
+image resize -->  |
+		  v
+		 dimensions (preferably width) or aspect ratio (already set /custom)
+		 take from user and upload it + minimum check of dimensions for upload 
+		 image (before uploading) + maximum check (if user uploads an image then
+		 it cannot enhance its dimensions more from its original dimensions, e.g 
+		 750 x 1050 are dimensions of an image, then it cannot be enhanced to 
+		 751 x anything).
+
+
+problem occuring:
+		 file is being uploaded through postman and it also gives the correct url,
+but it is not being printed in console on vs code. and it is getting (maybe hard coded)
+image url and all of its dimensions etc.
+.
+.
+task: to get all stats of a parent event regarding slots.
+	total earnings, number of sold ticket
+	number of cancelled tickets, number of refunded tickets
+
+
+    getParentEventStats() {
+        let aggregate = this.aggregate;
+        let match = {
+            mainEventID
+        }
+    }

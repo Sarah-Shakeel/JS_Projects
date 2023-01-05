@@ -1,0 +1,3 @@
+verify email and phone, code will be received on email and phone
+
+code verification otp will be called with email and phone otp

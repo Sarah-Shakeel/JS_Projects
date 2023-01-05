@@ -1,0 +1,8 @@
+Middlewares are the functions(pre and post) which are given control during the execution of asynchronous functions,
+mainly used by making Schema in models code (like user or task model) 
+-->  (They are used for customizing the model behaviours like while execution, (before or after running a model) do 
+something specific)
+
+Views are different webpages on a website / web-server and how will it look when opened in browser.
+Utils are the reusable code / functions used in different files in a code
+Models are the structure created to be stored in the db (for making collections in a database)

@@ -1,0 +1,14 @@
+VENUE-ROUTES:
+update venue and get venue detail (request in postman) donot use the uuid, rather they use venueId.
+
+ADMIN-ROUTES:
+assign-events, create-admin, update-admin-profile, update-my-profile, get-admin-details,
+get-all-admins, get-assign-events
+
+
+EVENT-CREATION FLOW:
+
+get-all-categories (category route), image-upload (event-route v1), 
+manage-parent-event (event-action route v2), get-all-venues (venue-route v1),
+manage-event-slot (slot-action route v2), get-parent-events (event-route v1), 
+get-all-parent-categories (category route)

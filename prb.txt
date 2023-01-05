@@ -1,0 +1,11 @@
+database.js
+donotNeedBaseProp, _ , toObjectAndModify
+
+what is going on in core folder
+
+promotion-engine (core)
+PercentagePromotion (calculatePromotion) whats the point of putting an if statement to check validity, 
+when either of the 2 options (if statement is true or false) returns the same thing
+
+admin-model.js
+line 118: findByEmail: is finding by id not by email or a variable.
